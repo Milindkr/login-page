@@ -1,0 +1,54 @@
+body {
+  height: 100%;
+  margin: 0;
+  
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  background-color: #5f8e8e;
+}
+.hello{
+  width: 30%;
+  height: 100%;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 7px black;
+  margin: 150px 0px 0px 0px;
+}
+
+}
+.l{
+	margin: 0px 0px -200px 0px;
+    height: 20px;
+}
+.placeholder{
+	width: 200px;
+	height: 20px;
+	margin: 10px 0px 0px 0px;
+
+}
+.password{
+	width: 200px;
+	height: 20px;
+	margin: 20px 0px 0px 0px;
+}
+.signin{
+	width: 200px;
+	height: 20px;
+	margin: 10px 0px 0px 0px;
+	border-radius: 2px;
+    box-shadow: 0px 0px 2px 2px black;
+    cursor: pointer;
+}
+.fo{
+	margin: 20px 0px 0px 40px;
+}
+.fo:hover{
+  background-color: lightcyan;
+}
+.signin:hover{
+	background-color: lightblue;
+}
